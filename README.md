@@ -11,3 +11,6 @@ learned git commands
        -add
        -commit
 
+learning git progress 
+
+Hope so you are getting the concept

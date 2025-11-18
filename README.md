@@ -13,4 +13,5 @@ learned git commands
 
 learning git progress 
 
-Hope so you are getting the concept
+Hope so you are getting the concept well
+
